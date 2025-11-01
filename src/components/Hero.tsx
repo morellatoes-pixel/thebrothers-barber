@@ -24,10 +24,10 @@ export default function Hero() {
           The Brothers Barber Shop
         </h1>
         <p className="text-2xl md:text-3xl text-neutral-200 mb-4 font-light">
-          Tradición y estilo en el corazón de Valencia
+          Tradición y estilo en la playa de Valencia
         </p>
         <p className="text-lg md:text-xl text-neutral-300 mb-12 max-w-3xl mx-auto">
-          Más de 13 años ofreciendo cortes de precisión y looks personalizados para cada cliente.
+          Más de 8 años ofreciendo cortes de precisión y looks personalizados para cada cliente.
         </p>
 
         <button 
@@ -66,7 +66,7 @@ export default function Hero() {
             <Clock className="w-6 h-6 text-amber-500 flex-shrink-0 mt-1" />
             <div>
               <p className="text-white font-semibold mb-1">Horario</p>
-              <p className="text-neutral-300 text-sm">Lunes a viernes: 09:00 – 18:00</p>
+              <p className="text-neutral-300 text-sm">Lunes a viernes: 09:00-14:00 y 14.30-20:00 </p>
             </div>
           </div>
         </div>
