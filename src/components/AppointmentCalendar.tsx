@@ -23,7 +23,7 @@ export default function AppointmentCalendar({ isOpen, onClose }: AppointmentCale
         </h2>
 
         <iframe
-          src="https://calendly.com/morellato-es/30min"
+          src="https://calendly.com/morellato-es/30min?locale=es"
           style={{
             width: "100%",
             height: "700px",
